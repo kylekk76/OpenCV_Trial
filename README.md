@@ -13,7 +13,7 @@ Some problems that i encounter:
 
 # DEVELOPMENT
 
-At the start the model was working just fine but the FPS was down to 6, that was not optimal, by the end i decide to remake all the program following a tutorial about openCV and Threading, the firstone help me to tidy up the code and reorganize using clases and the secondone make it jump from 6 fps to 300 fps.
+At the start the model was working just fine but the FPS was down to 6, that was not optimal, by the end i decide to remake all the program following a tutorial about openCV and Threading, the firstone help me to tidy up the code and reorganize using clases and the secondone make it jump from 6 fps to 200 fps.
 
 I was used to clases but not to multi-threading but is a topic that i would start to pay more attention as its clear how much power it gives you.
                                          
