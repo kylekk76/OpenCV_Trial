@@ -26,6 +26,6 @@ Other thing that im not happy with is the stages of training or the -maxFalseAla
 
 
 # Without Threading
-<img scr=https://github.com/kylekk76/OpenCV_Trial/blob/main/without_threading.png>
+<img = https://github.com/kylekk76/OpenCV_Trial/blob/main/without_threading.png>
 # With Threading
-<img scr=https://github.com/kylekk76/OpenCV_Trial/blob/main/with_threading.png>
+<img = https://github.com/kylekk76/OpenCV_Trial/blob/main/with_threading.png>
